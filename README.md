@@ -6,7 +6,7 @@ This repository contains a set of tools for performing motor test by utilizing [
 * `report_gen.ipynb` reads through the csv file produced by the script and generates the performance report on the combination.
 
 ## Usage
-1. Perform a motor test by the dynamometer with `custom_step_test.js`. Details about using the dynamometer can be found at [RCbenchmake](https://www.rcbenchmark.com/) and the software.
+1. Perform a motor test by the dynamometer with `custom_step_test.js`. Details about using the dynamometer can be found at [RCbenchmark](https://www.rcbenchmark.com/) and in the APP.
 2. The default installation of [Anaconda](https://www.continuum.io/downloads) contains all the necessary packages for generating the report, install it.
 3. Open the Notebook by the following command. Execute the cells line by line.
 ```
